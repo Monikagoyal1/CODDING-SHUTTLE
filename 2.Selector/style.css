@@ -1,0 +1,21 @@
+body{
+  font-size: 24px;
+  }
+  #first{
+    color: blueviolet;
+  }
+    #first,#second{
+      background-color: chocolate;
+    }
+  .purple{
+    color: crimson;
+    font-family: monospace;
+  }
+  p:hover{
+    color: forestgreen;
+  }
+  .highlight{
+    color: cornflowerblue;
+    font-weight: bolder;
+    font-style: italic;
+  }
